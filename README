@@ -1,37 +1,37 @@
+# Shelf Ambilight Extension (Philips TV)
 
-This directory is intended for project header files.
+Small ESP32-based ambilight that reads color data from a Philips TV and drives a single WS2812/NeoPixel strip (38 LEDs).
 
-A header file is a file containing C declarations and macro definitions
-to be shared between several project source files. You request the use of a
-header file in your project source file (C, C++, etc) located in `src` folder
-by including it, with the C preprocessing directive `#include'.
+### Overview
 
-```src/main.c
+- ESP32 requests color layers from the TV and renders them on a 38-LED NeoPixel strip.
+- LEDs are split into left and right segments and a synthetic bottom glow is generated from edge colors.
 
-#include "header.h"
+### Hardware
 
-int main (void)
-{
- ...
-}
-```
+- ESP32 (or compatible)
+- WS2812 / NeoPixel strip (NUM_LEDS_TOTAL = 38)
+- 5V power supply for LEDs (common ground with ESP32)
+- Data pin: GPIO 16 (LED_PIN in code)
 
-Including a header file produces the same results as copying the header file
-into each source file that needs it. Such copying would be time-consuming
-and error-prone. With a header file, the related declarations appear
-in only one place. If they need to be changed, they can be changed in one
-place, and programs that include the header file will automatically use the
-new version when next recompiled. The header file eliminates the labor of
-finding and changing all the copies as well as the risk that a failure to
-find one copy will result in inconsistencies within a program.
+## Usage
 
-In C, the convention is to give header files names that end with `.h'.
+- Configure WiFi and TV URL in secrets.h (see below).
+- Build and upload with PlatformIO.
 
-Read more about using header files in official GCC documentation:
+### secrets.example.h
 
-* Include Syntax
-* Include Operation
-* Once-Only Headers
-* Computed Includes
+- Template file included to show required defines.
+- Copy this file to `secrets.h` and fill in values.
 
-https://gcc.gnu.org/onlinedocs/cpp/Header-Files.html
+### Wiring diagram
+
+- DIN of the LED strip -> ESP32 GPIO 16
+- 5V and GND to the strip power
+- See image below for proper led layout
+
+### Image (LED connection)
+
+The black is the cable, if you use a different wirering the order might not work with this code.
+
+![LED layout](../images/led_layout.png)
