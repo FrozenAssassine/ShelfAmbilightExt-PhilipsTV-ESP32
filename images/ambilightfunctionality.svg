@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210.73055mm"
+   height="156.2404mm"
+   viewBox="0 0 210.73055 156.2404"
+   version="1.1"
+   id="svg1"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.0396254"
+     inkscape:cx="550.67911"
+     inkscape:cy="499.69921"
+     inkscape:window-width="2560"
+     inkscape:window-height="1369"
+     inkscape:window-x="1072"
+     inkscape:window-y="157"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:page
+       x="0"
+       y="0"
+       width="210.73055"
+       height="156.2404"
+       id="page2"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient3"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#00fe46;stop-opacity:1;"
+         offset="0"
+         id="stop3" />
+      <stop
+         style="stop-color:#1d00ff;stop-opacity:1;"
+         offset="0.52700186"
+         id="stop5" />
+      <stop
+         style="stop-color:#ff0000;stop-opacity:1;"
+         offset="1"
+         id="stop4" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3"
+       id="linearGradient4"
+       x1="22.141388"
+       y1="105.74421"
+       x2="73.295631"
+       y2="105.74421"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3"
+       id="linearGradient7"
+       x1="133.08414"
+       y1="106.2005"
+       x2="184.23837"
+       y2="106.2005"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0.17995776)">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.468945;stroke-dasharray:none;stroke-opacity:1"
+       id="rect9"
+       width="210.73055"
+       height="156.2404"
+       x="-0.17995776"
+       y="0"
+       ry="1.0236758"
+       inkscape:export-filename="ambilightfunctionality.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.699515"
+       id="rect1"
+       width="142.33548"
+       height="81.161781"
+       x="31.53035"
+       y="12.951943"
+       ry="2.4741814" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:url(#linearGradient4);stroke-width:2;stroke-dasharray:none"
+       d="m 22.141388,105.74421 h 51.15424"
+       id="path2" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:url(#linearGradient7);stroke-width:2;stroke-dasharray:none"
+       d="m 133.08413,106.2005 h 51.15424"
+       id="path2-8" />
+    <text
+       xml:space="preserve"
+       style="font-size:28.2222px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.499999"
+       x="86.199768"
+       y="61.905472"
+       id="text2"><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         style="font-size:28.2222px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5"
+         x="86.199768"
+         y="61.905472">TV</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;direction:ltr;fill:none;stroke:#000000;stroke-width:0.499999"
+       x="34.890614"
+       y="112.13661"
+       id="text3"><tspan
+         sodipodi:role="line"
+         id="tspan3"
+         style="font-size:6.35px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5"
+         x="34.890614"
+         y="112.13661">RGB1 Led(20-38)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;direction:ltr;fill:none;stroke:#000000;stroke-width:0.499999"
+       x="149.99609"
+       y="112.91824"
+       id="text3-1"><tspan
+         sodipodi:role="line"
+         id="tspan3-7"
+         style="font-size:6.35px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5"
+         x="149.99609"
+         y="112.91824">RGB2 Led(0-19)</tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
+       d="m 110.32519,127.24935 c 0.30395,-0.86671 -0.005,-1.78863 0.12725,-2.67223 0.0657,-0.43794 0.26997,-0.84399 0.38175,-1.27249 0.29864,-1.1448 0.61314,-2.28566 0.89074,-3.43574 0.48024,-0.96736 0.29639,-2.04408 0.509,-3.05398 0.0912,-0.43334 0.26905,-0.84423 0.38175,-1.27249 0.29755,-1.13071 0.50984,-2.29428 0.7635,-3.43574 0.16966,-0.76349 0.37307,-1.52027 0.50899,-2.29049 0.0594,-0.33676 0.0267,-0.69114 0.12725,-1.01799 0.0727,-0.23639 0.2813,-0.41024 0.38175,-0.63625 0.16157,-0.36353 0.0429,-0.48136 0.2545,-0.76349 0.51884,-0.6918 -0.0488,0.1663 0.63625,-0.38175 0.11942,-0.0955 0.13507,-0.28621 0.2545,-0.38175 0.54993,-0.43995 1.90246,-0.31035 2.54498,-0.38175 0.17382,-0.0193 0.33518,-0.10793 0.509,-0.12725 1.37549,-0.15283 2.83262,0.0361 4.19923,0.12725 1.89482,0.12632 3.82499,0 5.72622,0 0.18268,0 0.48506,-0.0378 0.63625,0 0.0582,0.0145 0.0703,0.10828 0.12724,0.12725 0.42591,0.14197 3.10134,0 3.94474,0"
+       id="path7" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
+       d="m 184.25707,106.38046 c 0.29293,-0.056 0.59681,0.042 0.89074,0 0.21436,-0.0306 1.87685,-0.67856 2.03599,-0.89075 0.31391,-0.41854 0.2876,-1.05623 0.38175,-1.52699 0.0186,-0.093 0.10865,-0.16149 0.12725,-0.25449 0.006,-0.0324 0.0394,-1.00223 0,-1.018 -0.73381,-0.29353 -0.43597,-0.0441 -1.01799,-0.12725 -0.3057,-0.0437 -0.58434,-0.2162 -0.89075,-0.2545 -1.03283,-0.1291 -2.24982,-0.20287 -3.30848,-0.12725 -0.59834,0.0427 -1.18316,0.21176 -1.7815,0.2545 -1.04738,0.0748 -2.12992,0 -3.18123,0 -1.46078,0 -3.00131,0.14524 -4.45373,0 -0.2152,-0.0215 -0.42071,-0.10929 -0.63624,-0.12725 -0.67632,-0.0564 -1.35733,0 -2.03599,0 -0.9084,0 -1.77133,-0.058 -2.67224,-0.12725 -0.39571,-0.0304 -1.19258,0.0355 -1.65424,0 -0.5145,-0.0396 -1.01229,-0.21773 -1.52699,-0.2545 -5.03546,-0.35967 -10.11188,-0.0224 -15.14268,-0.38174 -3.16563,-0.22612 -6.37505,0.18639 -9.5437,0 -1.44115,-0.0848 -2.88378,-0.17435 -4.32648,-0.2545 -1.8588,-0.10327 -3.74222,0.13262 -5.59897,0 -0.29917,-0.0214 -0.59185,-0.10234 -0.89074,-0.12725 -1.46262,-0.12189 -2.98562,0 -4.45373,0 -0.79884,0 -1.6217,-0.0569 -2.41774,0 -0.93498,0.0668 -1.86474,0.18259 -2.79948,0.2545 -0.5075,0.039 -1.0195,-0.039 -1.527,0 -1.10491,0.085 -2.20674,0.15434 -3.30848,0.2545 -0.6731,0.0612 -1.36289,-0.0612 -2.03599,0 -0.45474,0.0413 -0.945,0.21315 -1.39974,0.25449 -0.97742,0.0889 -1.95244,0.14625 -2.92674,0.2545 -0.37941,0.0422 -0.76539,-0.038 -1.14524,0 -0.21521,0.0215 -0.42417,0.0848 -0.63625,0.12725 -0.2545,0.0424 -0.50655,0.10389 -0.76349,0.12725 -1.22214,0.1111 -2.46193,0.2545 -3.69024,0.2545 -1.67747,0 -3.452894,0.22698 -5.089969,0.63625 -0.481651,0.12041 -0.912913,0.41163 -1.399744,0.50899 -0.207963,0.0416 -0.430496,-0.0514 -0.636246,0 -0.383072,0.0958 -1.227842,0.76283 -1.654241,0.89075 -0.247129,0.0741 -0.518729,0.0457 -0.763498,0.12725 -0.145087,0.0484 -0.241178,0.19425 -0.381749,0.2545 -0.513953,0.22026 -1.129204,0.20673 -1.654241,0.38174 -0.179956,0.06 -0.325988,0.20459 -0.508997,0.25451 -0.289362,0.0789 -0.594897,0.0779 -0.890747,0.12724 -0.843335,0.14056 -1.694116,0.43165 -2.544984,0.509 -0.253455,0.023 -0.510043,-0.023 -0.763498,0 -1.744255,0.15857 0.174525,0.0558 -1.017995,0.2545 -0.251036,0.0418 -0.511556,-0.036 -0.763495,0 -1.344636,0.19209 -9.181982,-0.88148 -10.550459,-0.88148"
+       id="path8"
+       sodipodi:nodetypes="csssccsssssscssscsssssssccscccscsssscccssccccccc" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.0764;stroke-dasharray:none;stroke-opacity:1"
+       id="rect8"
+       width="45.733082"
+       height="19.81916"
+       x="85.018143"
+       y="127.48816"
+       ry="0.72821361" />
+    <text
+       xml:space="preserve"
+       style="font-size:11.2995px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;direction:ltr;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.889721;stroke-dasharray:none;stroke-opacity:1"
+       x="91.027039"
+       y="141.81091"
+       id="text8"><tspan
+         sodipodi:role="line"
+         id="tspan8"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.889721;stroke-dasharray:none"
+         x="91.027039"
+         y="141.81091">ESP32</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14.8705px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.1709;stroke-dasharray:none;stroke-opacity:1"
+       x="40.163582"
+       y="-32.813786"
+       id="text9"
+       transform="rotate(90)"><tspan
+         sodipodi:role="line"
+         id="tspan9"
+         style="stroke-width:1.17091"
+         x="40.163582"
+         y="-32.813786">Left</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14.8705px;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.1709;stroke-dasharray:none;stroke-opacity:1"
+       x="32.944714"
+       y="-158.24858"
+       id="text9-7"
+       transform="rotate(90)"><tspan
+         sodipodi:role="line"
+         id="tspan9-6"
+         style="stroke-width:1.17091"
+         x="32.944714"
+         y="-158.24858">Right</tspan></text>
+  </g>
+</svg>
