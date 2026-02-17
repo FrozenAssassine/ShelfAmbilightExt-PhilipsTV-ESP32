@@ -34,4 +34,4 @@ Small ESP32-based ambilight that reads color data from a Philips TV and drives a
 
 The black is the cable, if you use a different wirering the order might not work with this code.
 
-![LED layout](../images/led_layout.png)
+![LED layout](images/led_layout.png)
